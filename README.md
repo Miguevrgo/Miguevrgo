@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Computer Science and Math at UGR**
 
-- 📫 How to reach me **miguevrgo@gmail.com**
+- 📫 How to reach me **miguevrod@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
