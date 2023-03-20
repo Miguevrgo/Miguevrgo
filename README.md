@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
 <h3 align="center">I´m from Spain</h3>
 
-- 🔭 I’m currently studying **Computer Science and Math at UGR**
+- 🔭 I’m currently studying **Computer Science and Maths at UGR**
 
 - 📫 How to reach me: **miguevrod@gmail.com**
 
