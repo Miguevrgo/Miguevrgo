@@ -11,7 +11,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguevrgo&theme=onedark" alt="miguevrgo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguevrgo&theme=onedark&title=-Stars,-Issues,-Reviews" alt="miguevrgo" /></a> </p>
 
 ## About me
   - 🔭 I’m currently studying [Computer Science and Maths](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica-matematicas)
