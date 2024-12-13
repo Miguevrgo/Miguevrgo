@@ -1,9 +1,8 @@
 # Miguel Ángel De la Vega Rodríguez
-<p align="center"> 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Miguevrgo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="miguevrgo-github" />
-</p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguevrgo&show_icons=true&theme=tokyonight" alt="miguevrgo-github" />
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-six-liard.vercel.app?user=Miguevrgo&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguevrgo&layout=compact&theme=tokyonight" alt="miguevrgo-github" />
