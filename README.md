@@ -1,12 +1,16 @@
 # Miguel Ángel De la Vega Rodríguez
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-six-liard.vercel.app?user=Miguevrgo&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguevrgo&layout=compact&theme=tokyonight" alt="miguevrgo-github" />
-</p>
+<div align="center">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats-six-liard.vercel.app?user=Miguevrgo&theme=tokyonight" alt="GitHub Streak"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguevrgo&layout=compact&theme=tokyonight" alt="miguevrgo-github"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🏆 GitHub Trophies
 
