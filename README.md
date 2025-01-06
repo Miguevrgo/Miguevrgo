@@ -18,9 +18,10 @@
 
 ## About me
   - 🔭 I’m currently studying [Computer Science and Maths](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica-matematicas)
-  - 📫 How to reach me **miguevrod@gmail.com**
-  - I'd like to take part in any project which involves learning and applying new concepts. I love efficiency and learning how to properly use Data Structures and Algorithms.
-  - I'd rather code in C/C++, however, I am always open to learn new languages, concretely, I would love to take part in a Rust project.
+  - 📫 You can reach me in **miguevrod@gmail.com**
+  - I'd like to take part in any project which involves learning and a good environment, I love efficiency-focused projects, open source and data oriented design.
+  - I'd rather code in a "Low level language" such as Rust🦀 or C|C++, however, I am always open to learn new languages such as Go, Odin, or even Zig!
+  - You can know more about me in my github website: [Miguevrgo](https://miguevrgo.github.io)
 
 ## Languages and Tools
 
