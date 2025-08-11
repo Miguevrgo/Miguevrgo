@@ -18,6 +18,7 @@
 
 ## About me
   - 🔭 I’m currently studying [Computer Science and Maths](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica-matematicas)
+  - I am the developer of [**Oxide**](https://github.com/Miguevrgo/Oxide), currently the **highest-rated Spanish** chess engine on the CCRL.
   - 📫 You can reach me in **miguevrod@gmail.com**
   - I'd like to take part in any project which involves learning and a good environment, I love efficiency-focused projects, open source and data oriented design.
   - I'd rather code in a "Low level language" such as Rust🦀 or C|C++, however, I am always open to learning new languages such as Go, Odin, or even Zig!
@@ -42,5 +43,6 @@
 [![Projects](https://github-readme-stats.vercel.app/api/pin/?username=miguevrgo&repo=Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/Projects)
 [![Projects](https://github-readme-stats.vercel.app/api/pin/?username=miguevrgo&repo=Oxide&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/Oxide)
 [![Projects](https://github-readme-stats.vercel.app/api/pin/?username=miguevrgo&repo=AdvCode&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/AdvCode)
+
 
 
