@@ -6,7 +6,7 @@
         <img height="170px" src="https://github-readme-streak-stats-six-liard.vercel.app?user=Miguevrgo&theme=tokyonight" alt="GitHub Streak"/>
       </td>
       <td>
-        <img height="170px" src="https://github-readme-streak-stats-kp5kt59jk-migues-projects-e40a96d0.vercel.app?user=Miguevrgo&theme=tokyonight" alt="miguevrgo-github"/>
+        <img height="170px" src="https://readme-ruby.vercel.app/api/top-langs/?username=Miguevrgo&layout=compact&theme=tokyonight" alt="miguevrgo-github"/>
       </td>
     </tr>
   </table>
@@ -43,6 +43,7 @@
 [![Projects](https://github-readme-stats.vercel.app/api/pin/?username=miguevrgo&repo=Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/Projects)
 [![Projects](https://github-readme-stats.vercel.app/api/pin/?username=miguevrgo&repo=Oxide&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/Oxide)
 [![Projects](https://github-readme-stats.vercel.app/api/pin/?username=miguevrgo&repo=AdvCode&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/AdvCode)
+
 
 
 
