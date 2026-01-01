@@ -23,7 +23,7 @@
 ## Languages and Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,git,linux,python,latex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,python,java,latex,godot,linux,git,grafana,docker&theme=dark" />
 </a>
 
 ## Top Repositories
@@ -34,6 +34,7 @@
 [![Projects](https://readme-ruby.vercel.app/api/pin/?username=miguevrgo&repo=Zeru&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/Zeru)
 [![Projects](https://readme-ruby.vercel.app/api/pin/?username=miguevrgo&repo=DriveSim-3D&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/DriveSim-3D)
 [![Projects](https://readme-ruby.vercel.app/api/pin/?username=miguevrgo&repo=Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/Projects)
+
 
 
 
