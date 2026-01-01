@@ -3,7 +3,7 @@
   <table style="margin: 0 auto;">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-streak-stats-six-liard.vercel.app?user=Miguevrgo&theme=tokyonight" alt="GitHub Streak"/>
+        <img height="170px" src="https://github-readme-streak-stats-pxa6.vercel.app/?user=Miguevrgo&theme=tokyonight" alt="GitHub Streak"/>
       </td>
       <td>
         <img height="170px" src="https://readme-ruby.vercel.app/api/top-langs/?username=Miguevrgo&layout=compact&theme=tokyonight&exclude_repo=readme" alt="miguevrgo-github"/>
@@ -34,6 +34,7 @@
 [![Projects](https://readme-ruby.vercel.app/api/pin/?username=miguevrgo&repo=Zeru&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/Zeru)
 [![Projects](https://readme-ruby.vercel.app/api/pin/?username=miguevrgo&repo=DriveSim-3D&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/DriveSim-3D)
 [![Projects](https://readme-ruby.vercel.app/api/pin/?username=miguevrgo&repo=Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Miguevrgo/Projects)
+
 
 
 
