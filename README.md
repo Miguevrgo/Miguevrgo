@@ -16,7 +16,7 @@
 - 🔭 Pursuing a double degree in **Computer Science & Mathematics**.
 - ♟️ Creator of **Oxide**, the highest-rated Spanish chess engine on the CCRL.
 - ⚡ Focus: **Systems programming**, **non-GC architectures**, and hardware-level performance.
-- 🛠️ Core stack: **Rust**, **Modern C++**, and **C** — open to new paradigms and architectures.
+- 🛠️ Core stack: **Rust**, **Modern C++**, and **C**, open to new paradigms and architectures.
 - 📫 Reach out via **miguevrod@gmail.com**
 - 🌐 Learn more: [My Linkedln](https://www.linkedin.com/in/miguevrgo/)
 
